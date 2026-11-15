@@ -1,0 +1,19 @@
+{
+  "name": "AVIPACHITO - Sistema de Ventas",
+  "short_name": "AVIPACHITO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#123b2a",
+  "theme_color": "#123b2a",
+  "description": "Sistema de gestión AVIPACHITO móvil",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
